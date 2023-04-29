@@ -1,0 +1,12 @@
+* {
+    font-family: Helvetica;
+}
+
+header {
+    font-family: Helvectia;
+    font-size: 100px;
+    font-weight: bold;
+    color:khaki;
+    background-image: url("/resources/images/pattern.jpeg");
+    text-align: center;
+}

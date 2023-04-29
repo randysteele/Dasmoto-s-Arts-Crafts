@@ -1,0 +1,23 @@
+* {
+    font-family: Helvetica;
+}
+
+header {
+    font-size: 100px;
+    font-weight: bold;
+    color:khaki;
+    background-image: url("/resources/images/pattern.jpeg");
+    text-align: center;
+}
+.brushes {
+    font-size: 32px;
+    font-weight: bold;
+}
+.brushes h3{
+    background-color: mediumspringgreen;
+    color:white;
+}
+.frames {
+    font-weight: bold;
+    color: blue;
+}
